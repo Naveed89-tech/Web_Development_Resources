@@ -1,4 +1,4 @@
-# Awesome Web Development Resources ![Awesome][awesome-badge]
+# Web Development Resources
 
 This is an awesome project about Web Development resources. ⚡
 
